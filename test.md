@@ -1,3 +1,3 @@
 # it was clicked.
 
-thius is markdown. you worky?
+this is markdown. you worky?
